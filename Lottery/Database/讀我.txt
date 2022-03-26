@@ -1,0 +1,2 @@
+﻿1.請先在MySQL中建立一個名為"savele_lottery"的資料庫名稱,且編碼為"UTF-8"。
+2.最後再從"Lottery/Database"目錄下的"savele_lottery2021_11_13.sql"的檔案匯入至MySQL裡的資料庫當中。
